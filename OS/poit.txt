@@ -1,0 +1,1 @@
+hii how are you  File handling means creating, opening, reading, writing, and closing files using a program.
